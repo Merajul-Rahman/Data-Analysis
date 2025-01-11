@@ -15,3 +15,4 @@ Efficiently manage, analyze, and report vehicle performance and operations using
 
 ---  
 **Note**: All scripts and processed files are organized for ease of use and reproducibility.  
+![Snapshot of report](https://github.com/user-attachments/assets/699646b6-42f8-45f8-b028-fe6504ac2f84)
