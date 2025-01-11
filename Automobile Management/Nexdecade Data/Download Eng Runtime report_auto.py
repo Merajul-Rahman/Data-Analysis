@@ -40,11 +40,11 @@ driver.get('https://vts.nexdecade.com/#/authentication/signin')
 # Step 2: Wait and input username and password
 username = wait_for_element(driver, By.XPATH, '/html/body/app-root/app-signin/div/div/div/form/div[1]/input')
 if username:
-    username.send_keys('CONCEPT.KNITTING')
+    username.send_keys('')
 
 password = wait_for_element(driver, By.XPATH, '/html/body/app-root/app-signin/div/div/div/form/div[2]/input')
 if password:
-    password.send_keys('CONCEPt@323')
+    password.send_keys('')
 
 # Step 3: Wait and click login button
 btn = wait_for_element(driver, By.XPATH, '/html/body/app-root/app-signin/div/div/div/form/div[3]/button')
