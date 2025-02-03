@@ -1,0 +1,123 @@
+
+
+
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Sriram</o:LastAuthor>
+				  <o:LastSaved>2005-01-02T07:46:23Z</o:LastSaved>
+				  <o:Version>10.2625</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:10.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}					
+				.xl25
+					{mso-style-parent:style0;
+					color:white;
+					text-align:center;
+					vertical-align:middle;
+					background:Black;
+					mso-pattern:auto none;
+					white-space:normal;}					
+				.xl26
+					{mso-style-parent:style0;
+					text-align:left;
+					vertical-align:middle;
+					white-space:normal;}
+					
+					
+					
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>Report</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style='border-collapse: collapse;table-layout:fixed;'><tr><td colspan="5" class=xl25 width=64 x:num >Engine Run Time Report</td></tr><tr><td colspan="5" class=xl25 width=64 x:num >Reporting Time: 2025-02-01 01:45:31 PM</td></tr><tr><td colspan="5" class=xl26 width=64 x:num > </td></tr><tr><td colspan="7" class=xl26 width=64 x:num >Report Name : Engine Run Time Report</td></tr><tr><td colspan="7" class=xl26 width=64 x:num >Group Name : MASCO GROUP</td></tr><tr><td colspan="7" class=xl26 width=64 x:num >Vehicle Name : DMCHA534522</td></tr><tr><td colspan="7" class=xl26 width=64 x:num >Period : 2024-12-31  to 2025-01-31 </td></tr><tr><td colspan="5" class=xl26 width=64 x:num >  </td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>SL#</td><td class=xl24 width=64 style='border:.5pt solid black;'>Vehicle</td><td class=xl24 width=64 style='border:.5pt solid black;'>Date</td><td class=xl24 width=64 style='border:.5pt solid black;'>Duration</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>1</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-12-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>0:41:22</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>2</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-18-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>3:52:20</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>3</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-19-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>2:40:10</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>4</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-20-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>1:48:51</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>5</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-21-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>2:34:2</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>6</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-22-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>3:22:38</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>7</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-23-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>3:48:30</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>8</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-25-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>2:44:57</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>9</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-26-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>17:14:41</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>10</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-27-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>1:25:59</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>11</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-28-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>1:18:20</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>12</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-29-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>3:43:15</td></tr><tr><td class=xl24 width=64 style='border:.5pt solid black;'>13</td><td class=xl24 width=64 style='border:.5pt solid black;'>DMCHA534522</td><td class=xl24 width=64 style='border:.5pt solid black;'>Jan-30-2025</td><td class=xl24 width=64 style='border:.5pt solid black;'>13:21:42</td></tr><tr><td colspan="5" class=xl26 width=64 x:num >  </td></tr><tr><td colspan="7" class=xl26 width=64 x:num >Total Number of Engine Run Time   : 13</td></tr><tr><td colspan="7" class=xl26 width=64 x:num >Total Duration : 2 D 10 H: 36 M: 47 S</td></
